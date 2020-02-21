@@ -1,0 +1,24 @@
+import time
+import pygame, sys
+from pygame.locals import *
+
+pygame.init()
+pygame.display.set_caption("My first PyGame program")
+screen = pygame.display.set_mode((1080,720))
+
+screenX = pygame.Surface
+class Cloud:
+    def __init__(self , x , y):
+        self.x = x
+        self.y = y
+
+    def draw:
+
+
+xpos = 100
+ypos = 200
+class Raindrop:
+    def __init__(self):
+        self.x = xpos
+        self.y = ypos
+
